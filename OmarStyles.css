@@ -1,0 +1,184 @@
+html, body {
+	max-width: 100%;
+    overflow-x: hidden;
+}
+.center-img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a-edit{
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 10px 13px;
+	text-decoration: none;
+	float: right;
+}
+footer{
+	background-color:white;
+}
+.center-text{
+	text-align:center;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color:#F9C806;
+	font-size:75px;
+	font:Helvetica;
+}
+.center {
+	float:left;
+	position:absolute;
+}
+
+text{
+	float:right;
+    padding-left:165px;
+    padding-top:52px;
+    padding-right:145px;
+    background-color:lightGrey;
+    border:solid;
+}
+.bordered{
+	border:solid;
+}
+button {
+	border: none;
+	color: black;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 7px 5px;
+	margin-bottom:15px;
+	cursor: pointer;
+	background-color: #D6FF00
+}
+#Donate-button {
+	border: none;
+	color: black;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 75px;
+	margin: 7px 5px;
+	margin-bottom:15px;
+	cursor: pointer;
+	background-color: #D6FF00
+}
+.title{
+    font-size:100px;
+    transform:translate(20%, 0%);
+}
+.color-outline{
+	color:#D6FF00;
+}
+#black{
+    color:black;
+}
+
+yellow{
+	color:yellow;
+    font-size:70px;
+}
+red{
+	color:#ff719c;
+	font-size:70px;
+}
+mark { 
+	display: inline-block; 
+	height: 0.4em;
+	line-height: 0.1; 
+}
+       
+#red{
+	background-color:#ff719c;
+}
+
+.center-button{
+    transform:translate(610px, 0px);
+}
+.nav {
+	list-style-type: none;
+  	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+.navI {
+	float: right;
+}
+head{
+	background-color:white;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+body{
+	background-color: #E6F2EE;
+}
+#donate2{
+	text-align:center;
+	font-size:75px;	
+}
+.social-media{
+	padding:10px;
+    display: flex;
+    justify-content: center;
+}
+.right{
+	float:right;
+	padding:0px;
+	margin:0px;
+}
+
+left{
+	float:left;
+	padding:0px;
+	margin:0px;
+}
+
+text-two{
+	font-size:20px;
+	font:Helvetica;
+	text-align:center;
+	color:white;
+	margin:100px;
+}
+.boxed{
+background-color:black;
+border:inset;
+border-width:10px;
+}
+#orange{
+	background-color:orange;	
+}
+orange{
+	color:orange;
+	font-size:70px;
+}
+refrences{
+	font-size:20px;
+}
+.newsImage{
+	transform:translate(170px,100px)
+} 
+#regisImage{
+	transform:translate(-45px,30px)
+}
